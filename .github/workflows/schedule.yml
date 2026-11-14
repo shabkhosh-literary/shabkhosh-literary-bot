@@ -3,7 +3,7 @@ name: Shab Khosh Literary Bot
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/1 * * * *"
   workflow_dispatch:
 
 permissions:
